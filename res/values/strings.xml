@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlashDisco</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="permdesc_flashlight">FlashLight</string>
+    <string name="flash_on">Flaş Açık</string>
+    <string name="flash_off">Flaş Kapalı</string>
+
+</resources>
